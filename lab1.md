@@ -11,4 +11,5 @@ photo proofs: ![tree] (images/tree.png)
 ![cap7] (images/Capture7.PNG)
 ![cap8] (images/Capture8.PNG)
 ![cap9] (images/Capture9.PNG)
- 
+
+I've started to look at some of the other projects that are being done and have been done in RCOS. I have spoken with students who are working on and have worked on these projects . One project in particular that caught my eye was one where they were making a website that tracked market values of objects in the game EVE online.  
