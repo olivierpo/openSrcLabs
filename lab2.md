@@ -17,7 +17,6 @@ CloudBench -> APACHE License
 free-of-charge -> MIT
 SplitScreen -> APACHE License
 
-A prject that i think would be interesting is making a bot that could play an online game, notably Hearthstone. It would be a piece of software that would be designed to be able to beat other players in a competitive card game setting. For this software, we would use the MIT license because it is concise and we do not need concern ourselves with patent issues. 
+A project that i think would be interesting is making a bot that could play an online game, notably Hearthstone. It would be a piece of software that would be designed to be able to beat other players in a competitive card game setting. For this software, we would use the MIT license because it is concise and we do not need concern ourselves with patent issues. 
 
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
-To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
