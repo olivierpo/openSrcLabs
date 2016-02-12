@@ -2,4 +2,4 @@
 ----------
 ![scr1](images/scr1.png)
 ![scr2](images/scr2.png)
-![branch](images/branch.PNG)
+![branch](images/branching.PNG)
