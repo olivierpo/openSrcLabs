@@ -4,3 +4,4 @@
 ![scr2](images/scr2.png)
 ![branch](images/branching.PNG)
 [Link to repo courseproject](https://github.com/olivierpo/courseproject)
+[Link to newStory repo](https://github.com/olivierpo/NewStory)
