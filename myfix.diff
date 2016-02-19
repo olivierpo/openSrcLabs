@@ -1,0 +1,13 @@
+Index: index.xml
+===================================================================
+--- index.xml	(revision 48199)
++++ index.xml	(working copy)
+@@ -402,7 +402,7 @@
+       <li><p><b>10-Feb-2000</b>
+ 	<a href="mailto:mwlucas@blackhelicopters.org">Michael Lucas</a>
+ 	has written an excellent <a
+-	href="http://www.linux.com/featured_articles/20000210/282/">
++	href="www.usermode.org/docs/ferrets.html">
+ 	article</a> on the differences between the BSD license and the
+ 	GPL.  This article is definitely worth reading.</p>
+ 
