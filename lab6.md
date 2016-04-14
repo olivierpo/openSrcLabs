@@ -80,5 +80,7 @@ Leader: Cordom2
 Venue: https://youtu.be/YQuVC4O2qyE
 Leader: Severin Ibarluzea
 
+### Part 2:
+https://github.com/olivierpo/lab6
 
-
+![testingpython](./images/lab6tests.png)
