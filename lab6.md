@@ -11,7 +11,7 @@ Contributors: 3
 
 Gitstats:
 
-![Fundo](lab6/part1-img/Fundo.png)
+![Fundo](./images/Fundo.png)
 
 #####Fe-cli
 - Contributors: 1 
@@ -22,7 +22,7 @@ Gitstats:
 
 Gitstats:
 
-![Fundo](lab6/part1-img/Fe-cli.png)
+![Fe-Cli](./images/Fe-cli.png)
 
 #####Venue
 - Contributors: 4
@@ -33,7 +33,7 @@ Gitstats:
 
 Gitstats:
 
-![Fundo](lab6/part1-img/Venue.png)
+![Venue](./images/Venue.png)
 
 #####Ringtone-Randomizer
 - Contributors: 1
@@ -44,7 +44,7 @@ Gitstats:
 
 Gitstats:
 
-![Fundo](lab6/part1-img/Ringtone-Randomizer.png)
+![Ringtone](./images/Ringtone-Randomizer.png)
 
 #####Cubl
 - Contributors: 2
@@ -55,7 +55,7 @@ Current branches:
 
 Gitstats:
 
-![Fundo](lab6/part1-img/Cubl.png)
+![Cubl](./images/Cubl.png)
 
 
 
